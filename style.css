@@ -11,7 +11,7 @@ body{
     top: 0px;
     left: 0px;
     bottom: 0px;
-    width: 400px;
+    width: 300px;
     background-color: #000000;
     padding: 24px;
 }
@@ -59,7 +59,7 @@ body{
     text-decoration: underline;
 }
 .main-container{
-    margin-left: 450px;
+    margin-left: 350px;
     margin-bottom: 100px;
 }
 .topbar{
@@ -215,7 +215,4 @@ body{
     border: 0px;
     border-radius: 40px;
     cursor: pointer;
-}
-.preview button:hover{
-    background-color: #b3b3b3;
 }
