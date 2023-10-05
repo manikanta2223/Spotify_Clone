@@ -219,3 +219,10 @@ body{
 .preview button:hover{
     background-color: #b3b3b3;
 }
+.spotify-playlists .list{
+    white-space: nowrap;
+    overflow: scroll;
+}
+::-webkit-scrollbar{
+    display: none;
+}
