@@ -216,3 +216,6 @@ body{
     border-radius: 40px;
     cursor: pointer;
 }
+.preview button:hover{
+    background-color: #b3b3b3;
+}
